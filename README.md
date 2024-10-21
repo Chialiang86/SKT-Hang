@@ -1,6 +1,6 @@
 # SKT-Hang
 
-- This GitHub repo is the implementation of the paper "[SKT-Hang: Hanging Everyday Objects via Object-Agnostic Semantic Keypoint Trajectory Generation](https://arxiv.org/abs/2312.04936)" | Project website: [url](https://hcis-lab.github.io/SKT-Hang/) | Video: [url](https://www.youtube.com/watch?v=JgxQpIvKT04)
+- This GitHub repo is the implementation of the paper "[SKT-Hang: Hanging Everyday Objects via Object-Agnostic Semantic Keypoint Trajectory Generation](https://arxiv.org/abs/2312.04936)" | [Project website](https://hcis-lab.github.io/SKT-Hang/) | [Video](https://www.youtube.com/watch?v=JgxQpIvKT04)
 
 ![SKT-Hang](images/teaser.png)
 
