@@ -97,8 +97,9 @@ skt-hang/
 @article{skthang2023,
   title={SKT-Hang: Hanging Everyday Objects via Object-Agnostic Semantic Keypoint Trajectory Generation},
   author={Chia-Liang Kuo, Yu-Wei Chao, Yi-Ting Chen},
-  year={2023},
-  booktitle={arXiv},
+  booktitle={2024 International Conference on Robotics and Automation (ICRA)},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
